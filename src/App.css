@@ -1,0 +1,26 @@
+
+.App {
+  
+  z-index: 1;
+}
+table, th, td {
+  border:2px solid black;
+  
+}
+.grid{
+  width: 25rem;
+  
+}
+
+
+.form{
+  bottom: 0;
+  position: absolute;
+  left: 25%;
+}
+.robot{
+  position: absolute;
+  width: 5rem;
+}
+
+
